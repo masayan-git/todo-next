@@ -1,0 +1,16 @@
+a {
+  text-decoration: none;
+}
+
+.MuiDayCalendar-header {
+  span[aria-label="日曜日"] {
+    color: red;
+  }
+  span[aria-label="土曜日"] {
+    color: blue;
+  }
+}
+
+.MuiDayCalendar-weekDayLabel {
+  color: #000
+}
